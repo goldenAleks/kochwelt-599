@@ -1,0 +1,76 @@
+body {
+    margin: 0;
+}
+
+.logoObenLinks {
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 160px;
+}
+
+.menuObenLinks {
+    position: absolute;
+    top: 80px;
+    right: 130px;
+}
+
+.MenuObenLinks {
+    margin-right: 30px;
+}
+
+.hr {
+    height: 10px;
+    border: 0;
+    box-shadow: 0 10px 10px -10px #333 inset;
+}
+
+.crossiants {
+    display: flex;
+    justify-content: space-evenly;
+    ;
+}
+
+.crossiantsimg {
+    width: 480px;
+    margin-top: 40px;
+    margin-left: 160px;
+    margin-right: 40px;
+    margin-bottom: 50px;
+    border-radius: 5px;
+}
+
+.crossiantstext {
+    top: 0;
+    margin-top: 40px;
+    margin-right: 130px;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+.crossiantsbtn {
+    width: 160px;
+    height: 40px;
+    background-color: rgb(0, 128, 0);
+    border: none;
+    color: white;
+}
+.grayBox {
+    width: 100%;
+    height: auto;
+    background-color: rgb(239,239,239);
+}
+.etwasNeues {
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+}
+.imgGrayBox {
+    width: 320px;
+    border-radius: 5px;
+}
+.grayBox2 {
+    display: flex;
+    justify-content: space-evenly;
+}
